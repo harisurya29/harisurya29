@@ -159,3 +159,10 @@ A project title you’ve shared that aligns with your analytics and machine-lear
     width="100%"
   />
 </p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/harisurya29/harisurya29/output/github-contribution-grid-snake.svg)
