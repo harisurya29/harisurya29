@@ -166,3 +166,20 @@ A project title you’ve shared that aligns with your analytics and machine-lear
 ## 🐍 Contribution Snake
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/harisurya29/harisurya29/output/github-contribution-grid-snake.svg)
+
+
+
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harisurya29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisurya29&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harisurya29&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
